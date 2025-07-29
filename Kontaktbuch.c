@@ -1,3 +1,9 @@
+/*
+ * Kontaktbuch (C)
+ * Funktionen zur Kontaktverwaltung: Hinzufügen, Anzeigen, Speichern, Laden.
+ * Autor: Aymane Chanyate
+ * Lizenz: MIT
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
