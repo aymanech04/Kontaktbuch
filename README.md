@@ -1,4 +1,5 @@
 # 📒 Kontaktbuch (C)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Ein kleines Konsolenprogramm zur Verwaltung von Kontakten in der Programmiersprache C. Es demonstriert die Anwendung von `struct`, dynamischer Speicherverwaltung sowie Dateioperationen (`file I/O`).
 
