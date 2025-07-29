@@ -1,3 +1,10 @@
+/*
+ * Kontaktbuch (C)
+ * Ein einfaches Tool zur Verwaltung von Kontakten über die Konsole.
+ * Autor: Aymane Chanyate
+ * Lizenz: MIT
+ */
+
 #include <stdio.h>
 #include "kontaktbuch.h"
 
