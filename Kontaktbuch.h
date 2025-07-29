@@ -1,3 +1,9 @@
+/*
+ * Kontaktbuch Header-Datei
+ * Enthält Definitionen und Funktionsprototypen für die Kontaktverwaltung.
+ * Autor: Aymane Chanyate
+ * Lizenz: MIT
+ */
 #ifndef KONTAKBUCH_H
 #define KONTAKBUCH_H
 
